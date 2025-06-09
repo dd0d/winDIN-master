@@ -1,7 +1,7 @@
-#Network Device Discover by Dxtr
+#Network Device Discover by 7mode
 #Github: https://github.com/dd0d/
 #Twitter: https://twitter.com/vjs5/
-#Discord: outdata#0
+#Discord: ix7mode#0
 
 import os, subprocess, ctypes, re, socket, requests, json
 from colorama import Fore, init
